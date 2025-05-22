@@ -1,3 +1,3 @@
 ﻿# Scapre-Data
-Install : npm i
-Run : npm start
+# Install : npm i
+# Run : npm start
